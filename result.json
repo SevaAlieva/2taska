@@ -1,0 +1,111 @@
+{
+  "total_reviews": 20,
+  "mood_distribution": {
+    "positive": 8,
+    "negative": 6,
+    "neutral": 6
+  },
+  "results": [
+    {
+      "review_id": 1,
+      "mood": "positive",
+      "reason": "Очень вкусные блюда, хороший сервис"
+    },
+    {
+      "review_id": 2,
+      "mood": "positive",
+      "reason": "Божественная еда, адекватные цены"
+    },
+    {
+      "review_id": 3,
+      "mood": "negative",
+      "reason": "Ужасное обслуживание, холодная еда"
+    },
+    {
+      "review_id": 4,
+      "mood": "neutral",
+      "reason": "Средненькое качество еды, ничего особенного"
+    },
+    {
+      "review_id": 5,
+      "mood": "positive",
+      "reason": "Отличный лагман, свежее тесто"
+    },
+    {
+      "review_id": 6,
+      "mood": "negative",
+      "reason": "Не соответствует заявленной кухне, жесткое мясо"
+    },
+    {
+      "review_id": 7,
+      "mood": "positive",
+      "reason": "Высокие цены, но качественная еда"
+    },
+    {
+      "review_id": 8,
+      "mood": "positive",
+      "reason": "Довольные посетители, хорошая еда"
+    },
+    {
+      "review_id": 9,
+      "mood": "negative",
+      "reason": "Риск отравления, плохой опыт"
+    },
+    {
+      "review_id": 10,
+      "mood": "positive",
+      "reason": "Отличное соотношение цены и качества"
+    },
+    {
+      "review_id": 11,
+      "mood": "negative",
+      "reason": "Недосоленные блюда, грязный туалет"
+    },
+    {
+      "review_id": 12,
+      "mood": "positive",
+      "reason": "Супер кухня, огромные порции"
+    },
+    {
+      "review_id": 13,
+      "mood": "negative",
+      "reason": "Пресная еда, плохое обслуживание"
+    },
+    {
+      "review_id": 14,
+      "mood": "positive",
+      "reason": "Душевное место, низкие цены"
+    },
+    {
+      "review_id": 15,
+      "mood": "neutral",
+      "reason": "Шикарные виды, средняя кухня"
+    },
+    {
+      "review_id": 16,
+      "mood": "positive",
+      "reason": "Отличная шаурма, не разочаровался"
+    },
+    {
+      "review_id": 17,
+      "mood": "negative",
+      "reason": "Жирная баранина, пересушенные отбивные"
+    },
+    {
+      "review_id": 18,
+      "mood": "positive",
+      "reason": "Отличное место для встреч, хорошие закуски"
+    },
+    {
+      "review_id": 19,
+      "mood": "negative",
+      "reason": "Долгое ожидание, полуготовые блюда"
+    },
+    {
+      "review_id": 20,
+      "mood": "positive",
+      "reason": "Очень вкусный том ям, свежие суши"
+    }
+  ],
+  "summary": "Большинство отзывов положительные, но есть и негативные. Рекомендуется обратить внимание на качество обслуживания и приготовления блюд."
+}
